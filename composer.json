@@ -14,7 +14,9 @@
   "keywords": [
     "WeChat",
     "WeChatOpen",
-    "WeChatOpenDeveloper"
+    "WeChatOpenDeveloper",
+    "libo",
+    "czt"
   ],
   "require": {
     "php": ">=5.4",
